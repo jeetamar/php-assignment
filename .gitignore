@@ -1,0 +1,12 @@
+# Environment & Logs
+*.log
+error_log
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+
+# IDE Files
+.idea/
+.vscode/
+
